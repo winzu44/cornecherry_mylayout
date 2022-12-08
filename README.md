@@ -7,4 +7,6 @@
 
 # 使用方法
 - qmk_firmware\keyboards\crkbd\keymaps\ に ```mylayout``` のフォルダをコピーする
-- QMK MSYS で
+- QMK MSYS でコピーしたフォルダ名を選択、コンパイル、書き込みする
+- コンパイル方法などはこっちでやってた
+  - https://qiita.com/winzu44/items/96f5d12b87b601030856
